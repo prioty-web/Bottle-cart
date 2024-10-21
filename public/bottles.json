@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "brand": "Evian",
+      "volume_ml": 500,
+      "material": "Plastic",
+      "price_usd": 1.50,
+      "img_url": "https://example.com/images/evian_500ml.jpg"
+    },
+    {
+      "id": 2,
+      "brand": "Fiji",
+      "volume_ml": 330,
+      "material": "Plastic",
+      "price_usd": 2.00,
+      "img_url": "https://example.com/images/fiji_330ml.jpg"
+    },
+    {
+      "id": 3,
+      "brand": "Nestlé Pure Life",
+      "volume_ml": 1000,
+      "material": "Plastic",
+      "price_usd": 1.00,
+      "img_url": "https://example.com/images/nestle_purelife_1000ml.jpg"
+    },
+    {
+      "id": 4,
+      "brand": "Voss",
+      "volume_ml": 375,
+      "material": "Glass",
+      "price_usd": 2.50,
+      "img_url": "https://example.com/images/voss_375ml.jpg"
+    },
+    {
+      "id": 5,
+      "brand": "Smartwater",
+      "volume_ml": 700,
+      "material": "Plastic",
+      "price_usd": 1.80,
+      "img_url": "https://example.com/images/smartwater_700ml.jpg"
+    },
+    {
+      "id": 6,
+      "brand": "Aquafina",
+      "volume_ml": 600,
+      "material": "Plastic",
+      "price_usd": 1.25,
+      "img_url": "https://example.com/images/aquafina_600ml.jpg"
+    },
+    {
+      "id": 7,
+      "brand": "Dasani",
+      "volume_ml": 500,
+      "material": "Plastic",
+      "price_usd": 1.10,
+      "img_url": "https://example.com/images/dasani_500ml.jpg"
+    },
+    {
+      "id": 8,
+      "brand": "San Pellegrino",
+      "volume_ml": 750,
+      "material": "Glass",
+      "price_usd": 3.00,
+      "img_url": "https://example.com/images/sanpellegrino_750ml.jpg"
+    },
+    {
+      "id": 9,
+      "brand": "Perrier",
+      "volume_ml": 330,
+      "material": "Glass",
+      "price_usd": 1.75,
+      "img_url": "https://example.com/images/perrier_330ml.jpg"
+    },
+    {
+      "id": 10,
+      "brand": "Volvic",
+      "volume_ml": 1500,
+      "material": "Plastic",
+      "price_usd": 1.50,
+      "img_url": "https://example.com/images/volvic_1500ml.jpg"
+    }
+  ]
+  
